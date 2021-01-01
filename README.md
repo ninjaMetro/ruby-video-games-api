@@ -28,4 +28,8 @@ Ruby v6.2
 9. To serve the api run `rails serve` or `rails s`
 
 
+* Optional
+Use insertGames.txt file to insert queries in your database
+
+
 
